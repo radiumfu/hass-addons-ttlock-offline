@@ -2,13 +2,4 @@
   "name": "TTLock Offline Intergration",
   "url": "https://github.com/radiumfu/hass-addons-ttlock-offline",
   "maintainer": "Radium Fu <radiumfu@gmail.com>"
-   "addons": [
-    {
-      "slug": "TTLock Offline integration",
-      "name": "TTLock Offline integration",
-      "description": "TTLock BLE biometric locks that can be controlled without a gateway by directly connecting it to your HA instance (provided your host has a Bluetooth adapter). I think I am now ready to share my work with the community so here it goes:",
-      "url": "https://github.com/radiumfu/hass-addons-ttlock-offline/ttlock-hass-intergration",
-      "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"]
-    }
-  ]
 }
