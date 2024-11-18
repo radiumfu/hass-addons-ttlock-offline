@@ -1,5 +1,5 @@
 {
-  "name": "TTLock",
+  "name": "TTLock Offline",
   "version": "0.1.1",
   "slug": "ttlock-offline-integration",
   "description": "Integration of the offline TTLock SDK into Home Assistant",
