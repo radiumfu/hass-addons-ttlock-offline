@@ -28,14 +28,14 @@ Feeling generous and want to support my work, here is [my PayPal link](https://p
 ## Screenshots
 
 ### Lock list  
-![Lock list](https://raw.githubusercontent.com/radiumfu/hass-addons-ttlock-offline/blob/master/ttlock-hass-integration/img/frontend1.png)  
+![Lock list](https://raw.githubusercontent.com/radiumfu/hass-addons-ttlock-offline/refs/heads/master/ttlock-hass-integration/img/frontend1.png)  
 
 ### Credentials  blob/
-![Credentials](https://raw.githubusercontent.com/radiumfu/hass-addons-ttlock-offline/blob/master/ttlock-hass-integration/img/frontend2.png)  
+![Credentials](https://raw.githubusercontent.com/radiumfu/hass-addons-ttlock-offline/refs/heads/master/ttlock-hass-integration/img/frontend2.png)  
 
 ### Add fingerprint  
-![Add fingerprint](https://raw.githubusercontent.com/radiumfu/hass-addons-ttlock-offline/blob/master/ttlock-hass-integration/img/frontend3.png)  
+![Add fingerprint](https://raw.githubusercontent.com/radiumfu/hass-addons-ttlock-offline/refs/heads/master/ttlock-hass-integration/img/frontend3.png)  
 
 ### HA device
-![HA device](https://raw.githubusercontent.com/radiumfu/hass-addons-ttlock-offline/blob/master/ttlock-hass-integration/img/ha1.png)  
+![HA device](https://raw.githubusercontent.com/radiumfu/hass-addons-ttlock-offline/refs/heads/master/ttlock-hass-integration/img/ha1.png)  
 
