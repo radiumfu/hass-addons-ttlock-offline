@@ -12,5 +12,5 @@
 
 Please see [ttlock-hass-integration/README.md](./ttlock-hass-integration/README.md) for more information.  
 
-To install add [https://github.com/kind3r/hass-addons](https://github.com/kind3r/hass-addons) to your **Supervisor** -> **Add-on Store** -> **Repositories**.  
+To install add [https://github.com/radiumfu/hass-addons-ttlock-offline](https://github.com/radiumfu/hass-addons-ttlock-offline) to your **Supervisor** -> **Add-on Store** -> **Repositories**.  
 
