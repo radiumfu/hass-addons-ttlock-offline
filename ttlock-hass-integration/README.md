@@ -1,8 +1,8 @@
 # Home Assistant Add-on TTLock
 
-> This is a **WORK IN PROGRESS**. Help with testing and report bugs [here](https://github.com/kind3r/hass-addons/issues).
+> This is a **WORK IN PROGRESS**. Help with testing and report bugs [here](https://github.com/radium/hass-addons-ttlock-offline/issues).
 
-Feeling generous and want to support my work, here is [my PayPal link](https://paypal.me/kind3r).
+Feeling generous and want to support my work, here is [my PayPal link](https://paypal.me/radium).
 
 ## Requirements
 - Bluetooth adapter compatible with [@abandonware/noble](https://github.com/abandonware/noble)
@@ -28,13 +28,13 @@ Feeling generous and want to support my work, here is [my PayPal link](https://p
 ## Screenshots
 
 ### Lock list  
-![Lock list](https://raw.githubusercontent.com/kind3r/hass-addons/master/ttlock-hass-integration/img/frontend1.png)  
+![Lock list](https://raw.githubusercontent.com/radium/hass-addons-ttlock-offline/master/ttlock-hass-integration/img/frontend1.png)  
 
 ### Credentials  
-![Credentials](https://raw.githubusercontent.com/kind3r/hass-addons/master/ttlock-hass-integration/img/frontend2.png)  
+![Credentials](https://raw.githubusercontent.com/radium/hass-addons-ttlock-offline/master/ttlock-hass-integration/img/frontend2.png)  
 
 ### Add fingerprint  
-![Add fingerprint](https://raw.githubusercontent.com/kind3r/hass-addons/master/ttlock-hass-integration/img/frontend3.png)  
+![Add fingerprint](https://raw.githubusercontent.com/radium/hass-addons-ttlock-offline/master/ttlock-hass-integration/img/frontend3.png)  
 
 ### HA device
 ![HA device](https://raw.githubusercontent.com/kind3r/hass-addons/master/ttlock-hass-integration/img/ha1.png)  
